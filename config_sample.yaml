@@ -1,0 +1,6 @@
+DEBUG: True
+SERVER: irc.freenode.net
+PORT: 6667
+CHANNELS: ["#channel01"]
+NICK: nick01
+PASSWORD: pass01
